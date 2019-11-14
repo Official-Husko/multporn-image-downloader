@@ -1,5 +1,5 @@
 # multporn-image-downloader
-simple bot which downloads comics from Multporn.net
+simple bot which downloads comics and Images from Multporn.net
 
 # Please Read! (AS OF v1.1)
 
