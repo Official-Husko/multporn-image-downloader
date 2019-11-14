@@ -13,3 +13,4 @@ If you cant see the Images you downloaded Run the "image-move-fix.exe" enter the
 4. links should be like this if entered: https://multporn.net/comics/some_comic
 
 And last but not least its my first bot so problems can occur. Please report them and enjoy the bot :)
+Feel free to add me on Discord if you got questions or ideas: Stahlhelm_TV#2208
