@@ -3,7 +3,7 @@ simple bot which downloads comics from Multporn.net
 
 # Please Read! (AS OF v1.1)
 
-1. Unpack the multporn-image-downloader.exe into a folder.
+1. Unpack the "multporn-image-downloader.exe" and the "image-move-fix.exe" into a folder.
 2. if you enter a path, enter it like that: \Users\UserName\Downloads\Folder Name
 (Do not include: C: / D: / E: etc.!
 This only works on the C Drive for now Keep that in mind!
