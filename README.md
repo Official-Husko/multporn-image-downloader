@@ -12,5 +12,12 @@ If you cant see the Images you downloaded Run the "image-move-fix.exe" enter the
 3. After the bot is done restart it and you can download again. Make sure the folder is empty except for the .exe files. Else it will replace it.
 4. links should be like this if entered: https://multporn.net/comics/some_comic
 
+# Known Problems
+
+Downloader is downloading additional Images which are not needed.
+If the save path contains images with the same name the not will give an error.
+
+-
+
 And last but not least its my first bot so problems can occur. Please report them and enjoy the bot :)
 Feel free to add me on Discord if you got questions or ideas: Stahlhelm_TV#2208
