@@ -9,7 +9,7 @@ simple bot which downloads comics and Images from Multporn.net
 This only works on the C Drive for now Keep that in mind!
 If you cant see the Images you downloaded Run the "image-move-fix.exe" enter the paths again and wait for a message which tells you its done!)
 3. . If you download a comic and enter the URL i can happen that it will download additional small pictures. found no fix for that right now but i will try to look into that.
-3. After the bot is done restart it and you can download again. Move the downloaded pictures first before you download a new one! Else they will be replaced
+3. After the bot is done restart it and you can download again. Make sure the folder is empty except for the .exe files. Else it will replace it.
 4. links should be like this if entered: https://multporn.net/comics/some_comic
 
 And last but not least its my first bot so problems can occur. Please report them and enjoy the bot :)
