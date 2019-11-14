@@ -14,10 +14,10 @@ If you cant see the Images you downloaded Run the "image-move-fix.exe" enter the
 
 # Known Problems
 
-Downloader is downloading additional Images which are not needed.
-If the save path contains images with the same name the not will give an error.
+- Downloader is downloading additional Images which are not needed.
+- If the save path contains images with the same name the not will give an error.
 
--
+
 
 And last but not least its my first bot so problems can occur. Please report them and enjoy the bot :)
 Feel free to add me on Discord if you got questions or ideas: Stahlhelm_TV#2208
