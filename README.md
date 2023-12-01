@@ -3,7 +3,7 @@ simple bot which downloads comics and Images from Multporn.net
 
 # Please Read! (AS OF v1.1) [OBSELETE]
 
-## Please use my new bot: https://github.com/Stahlhelm-TV/multporn-image-downloader-v2
+## Please use my new bot: https://github.com/Official-Husko/multporn-image-downloader-v2
 
 1. Unpack the "multporn-image-downloader.exe" and the "image-move-fix.exe" into a folder.
 2. if you enter a path, enter it like that: \Users\UserName\Downloads\Folder Name
@@ -22,4 +22,3 @@ If you cant see the Images you downloaded Run the "image-move-fix.exe" enter the
 # Final Words
 
 And last but not least its my first bot so problems can occur. Please report them and enjoy the bot :)
-Feel free to add me on Discord if you got questions or ideas: Stahlhelm_TV#2208
